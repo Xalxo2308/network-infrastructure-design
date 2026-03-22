@@ -50,5 +50,21 @@ Implemented VLAN segmentation to separate network traffic and configured inter-V
 - Improved network security and traffic management
 - Enabled efficient communication between VLANs
 
+## Static Routing Configuration
+
+### Objective
+Configured static routing to enable communication between different network segments in a controlled and predictable manner.
+
+### Implementation
+- Defined static routes on routers for specific destination networks
+- Configured next-hop IP addresses for routing paths
+- Verified connectivity using ping and routing tables
+
+### Outcome
+- Established reliable communication between networks
+- Enabled controlled routing behaviour
+- Provided foundation for understanding dynamic routing protocols
+
+
 ## Author
 Swati Clarice Xalxo
