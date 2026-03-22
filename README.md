@@ -34,5 +34,21 @@ Configured OSPF dynamic routing to enable automatic route exchange between multi
 - Reduced need for manual routing configuration
 - Improved network scalability and efficiency
 
+  ## VLAN and Inter-VLAN Routing
+
+### Objective
+Implemented VLAN segmentation to separate network traffic and configured inter-VLAN routing to enable communication between different network segments.
+
+### Implementation
+- Created VLANs to segment network traffic
+- Assigned switch ports to specific VLANs
+- Configured trunk links between switches and routers
+- Implemented router-on-a-stick for inter-VLAN communication
+
+### Outcome
+- Reduced broadcast domains
+- Improved network security and traffic management
+- Enabled efficient communication between VLANs
+
 ## Author
 Swati Clarice Xalxo
