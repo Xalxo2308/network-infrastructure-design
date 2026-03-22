@@ -65,6 +65,21 @@ Configured static routing to enable communication between different network segm
 - Enabled controlled routing behaviour
 - Provided foundation for understanding dynamic routing protocols
 
+## NAT and PAT Configuration
 
+### Objective
+Implemented Network Address Translation (NAT) and Port Address Translation (PAT) to enable internal network devices to access external networks.
+
+### Implementation
+- Configured NAT to translate private IP addresses to public IP addresses
+- Implemented PAT for multiple devices to share a single public IP
+- Defined inside and outside interfaces
+- Verified connectivity to external networks
+
+### Outcome
+- Enabled internet access for internal devices
+- Improved IP address utilisation
+- Simulated real-world enterprise network behaviour
+  
 ## Author
 Swati Clarice Xalxo
