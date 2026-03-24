@@ -80,6 +80,24 @@ Implemented Network Address Translation (NAT) and Port Address Translation (PAT)
 - Enabled internet access for internal devices
 - Improved IP address utilisation
 - Simulated real-world enterprise network behaviour
+
+## Cybersecurity Lab – SYN Flood Attack
+
+### Objective
+Simulate a SYN flood attack to understand denial-of-service behaviour.
+
+### Tools Used
+- Netwag
+- Wireshark
+- Ubuntu VM
+
+### Key Observations
+- Continuous TCP SYN packets sent to target
+- Source IP addresses constantly changing (IP spoofing)
+- Server resources overloaded
+
+### Outcome
+Successfully demonstrated how SYN flood attacks disrupt network services and how such attacks can be identified using packet analysis.
   
 ## Author
 Swati Clarice Xalxo
