@@ -98,6 +98,16 @@ Simulate a SYN flood attack to understand denial-of-service behaviour.
 
 ### Outcome
 Successfully demonstrated how SYN flood attacks disrupt network services and how such attacks can be identified using packet analysis.
-  
+
+## Cybersecurity Analysis – SYN Flood Attack
+
+![SYN Flood Attack](syn-flood-attack.png)
+
+### Observation
+A continuous stream of TCP SYN packets with varying source IP addresses can be observed, indicating a SYN flood attack using IP spoofing.
+
+### Impact
+This attack overwhelms the target system by exhausting available connection resources, potentially leading to denial-of-service.
+
 ## Author
 Swati Clarice Xalxo
