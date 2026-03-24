@@ -137,5 +137,11 @@ This project reflects real-world enterprise network environments such as telecom
 - Configured routing and switching protocols
 - Performed cybersecurity attack simulation and analysis
 
+## Future Improvements
+
+- Integration with real-time network monitoring tools
+- Implementation of intrusion detection systems (IDS)
+- Expansion to larger multi-site network environments
+
 ## Author
 Swati Clarice Xalxo
