@@ -109,5 +109,31 @@ A continuous stream of TCP SYN packets with varying source IP addresses can be o
 ### Impact
 This attack overwhelms the target system by exhausting available connection resources, potentially leading to denial-of-service.
 
+## Technical Implementation Details
+
+### OSPF Configuration
+- Enabled OSPF routing using router configuration mode
+- Assigned router IDs and advertised connected networks
+- Verified neighbour relationships using routing tables
+
+### VLAN Configuration
+- Created VLANs for network segmentation
+- Assigned switch ports to VLAN groups
+- Enabled inter-VLAN routing for communication
+
+### NAT Configuration
+- Configured NAT for external network access
+- Translated private IP addresses to public IP addresses
+
+## Real-World Relevance
+
+This project reflects real-world enterprise network environments such as telecommunications systems, where scalability, segmentation, and security are critical for reliable operations.
+
+## My Contribution
+
+- Designed and implemented the full network topology
+- Configured routing and switching protocols
+- Performed cybersecurity attack simulation and analysis
+
 ## Author
 Swati Clarice Xalxo
