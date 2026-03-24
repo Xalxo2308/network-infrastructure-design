@@ -1,5 +1,7 @@
 enterprise-network-design-ospf-vlan-security
 
+A practical implementation of enterprise network design integrating OSPF routing, VLAN segmentation, NAT, and cybersecurity attack analysis.
+
 ## Overview
 Designed and simulated a scalable enterprise network using OSPF, VLANs, and NAT.
 
