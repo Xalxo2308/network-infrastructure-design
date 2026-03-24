@@ -1,4 +1,4 @@
-# Enterprise Network Infrastructure Design
+enterprise-network-design-ospf-vlan-security
 
 ## Overview
 Designed and simulated a scalable enterprise network using OSPF, VLANs, and NAT.
